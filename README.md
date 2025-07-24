@@ -15,6 +15,8 @@ Windows OS (required to access Defender's update folders)
 # Usage
 DefenderDecompress <PathToFile.vdm> <OutputFileName>
 
+Use RunMe.bat to automate the extracting of files (please raccord path in bat file)
+
 # Example
 DefenderDecompress "C:\ProgramData\Microsoft\Windows Defender\Definition Updates\mpasbase.vdm" mpasbase.vdm.decompressed
 
