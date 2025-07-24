@@ -16,7 +16,7 @@ Windows OS (required to access Defender's update folders)
 DefenderDecompress <PathToFile.vdm> <OutputFileName>
 
 # Example
-DefenderDecompress "C:\ProgramData\Microsoft\Windows Defender\Definition Updates\mpasbase.vdm" mpasbase.vdm.extracted
+DefenderDecompress "C:\ProgramData\Microsoft\Windows Defender\Definition Updates\mpasbase.vdm" mpasbase.vdm.decompressed
 
 
 # Features
